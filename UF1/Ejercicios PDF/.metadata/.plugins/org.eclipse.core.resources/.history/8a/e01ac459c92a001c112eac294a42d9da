@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezEjercicioParejaDeNumeros {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 * Algorisme que demani parelles de números fins a que siguin iguals 
+		 * o un d’ells sigui 0. 
+		 * 
+		 */
+		
+		//Creamos el Scanner
+		Scanner teclado = new Scanner(System.in);
+		
+		//Creamos la variable 
+		int primerNumero = 0;
+		int segundoNumero = 0;
+		
+		//Pedimos al usuario que introduzca la pareja de numeros
+		System.out.println("Introduce el primer número: ");
+		primerNumero = teclado.nextInt();
+		
+		System.out.println("Introduce el segundo número: ");
+		segundoNumero = teclado.nextInt();
+		
+		if (primerNumero == 0 || segundoNumero == 0 ) {
+			System.out.println("Uno de los números fue 0, programa terminado.");
+		} else if (primerNumero == segundoNumero || segundoNumero == primerNumero) {
+			System.out.println("Ambos números son iguales, por tanto el programa terminó");
+		} else {
+			System.out.println("Introduce otro número: ");
+			primerNumero = teclado.nextInt();
+			
+			System.out.println("Introduce el segundo número: ");
+			segundoNumero = teclado.nextInt();
+		}
+		
+	}
+
+}

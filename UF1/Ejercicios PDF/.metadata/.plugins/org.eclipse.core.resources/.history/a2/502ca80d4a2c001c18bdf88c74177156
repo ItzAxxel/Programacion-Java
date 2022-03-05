@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezNTablaMultiplicar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 * Algorisme que demani al usuari un número n i mostri la taula de multiplicar
+		 * de aquest número.
+		 * 
+		 */
+
+		// Creamos el scanner
+		Scanner teclado = new Scanner(System.in);
+
+		// Creamos las variables
+		int numero = 0;
+		int contador = 1;
+		int multi = 0;
+
+		// Empezamos el ejercicio
+
+		while (contador == 10) {
+			System.out.println("Introduce un número para saber su tabla de multiplicacion: ");
+			numero = teclado.nextInt();
+			multi = numero * contador;
+			contador++;
+		}
+	}
+
+}

@@ -1,0 +1,57 @@
+// Axel Arroyo Giménez
+
+import java.util.Random;
+
+public class Arroyo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		// Variables
+		Random rand = new Random();
+		int[] pares = new int[25];
+		int[] valores = null;
+		int valor = 0;
+
+		for (int x = 0; x < pares.length; x++) {
+			pares[x] = rand.nextInt(10) + 1;
+			while (pares[x] % 2 == 1) {
+				pares[x] = rand.nextInt(10) + 1;
+			}
+
+			System.out.println(pares[x]);
+		}
+
+		CalculGran(pares);
+		CalculUltim(valores, valor, pares, rand, valor);
+	}
+
+	public static int CalculGran(int[] pares) {
+		int mayor = 0;
+		for (int i = 1; i < pares.length; i++) {
+			if (pares[i] > mayor) {
+				mayor = pares[i];
+			}
+		}
+		System.out.println("------------------------");
+		System.out.println("El mayor es: " + mayor);
+
+		return mayor;
+
+	}
+
+	public static void CalculUltim(int[] valores, int valor, int[] pares, Random rand, int mayor) {
+
+		for (int i = 0; i < pares.length; i++) {
+			pares[i] = rand.nextInt(10) + 1;
+			while (pares[i] % 2 == 1) {
+				pares[i] = rand.nextInt(10) + 1;
+			}
+			if (pares[i] > mayor) {
+				mayor = pares[i];
+			}
+		}
+
+	}
+
+}

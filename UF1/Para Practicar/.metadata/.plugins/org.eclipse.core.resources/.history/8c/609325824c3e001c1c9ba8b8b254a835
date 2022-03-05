@@ -1,0 +1,36 @@
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class AxelArroyoGimenez_vectores_main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner teclado = new Scanner(System.in);
+		int x = 0;
+		boolean continua = true;
+		
+		do {
+			try {
+				
+				do{
+					System.out.println("Introduce un numero del 1 al 10: ");
+					x = teclado.nextInt();
+
+				} while (x > 11 || x < 0);
+			}
+			 catch (InputMismatchException ex) {
+		            System.out.println("ERROR! El dato que has introducido no es válido. Introduce un numero entero por favor: ");
+		            teclado.next();
+		        }
+		}while (continua);
+		
+		if (x > 11 || x < 0) {
+		continua = false;
+		}
+		System.out.println("El valor introducido es correcto! ");
+
+		// cerramos el teclado
+		teclado.close();
+	}
+
+}

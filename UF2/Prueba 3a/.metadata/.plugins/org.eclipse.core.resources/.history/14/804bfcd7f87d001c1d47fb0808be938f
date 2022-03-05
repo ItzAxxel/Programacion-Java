@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class Arroyo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner teclado = new Scanner(System.in);
+
+		// Variables
+		String direcion;
+		String comprobante = "#";
+		boolean seCumple = true;
+
+		// Pedimos al usuario la dirección
+		System.out.println("Dime tu dirección: ");
+		direcion = teclado.nextLine();
+
+		while (seCumple) {
+			if (direcion.contains(comprobante)) {
+
+			} else {
+				System.out.println(
+						"¡No contiene el correcto formato. Introduce de nuevo con el siguiente formato: calle falsa#123#2552");
+				direcion = teclado.nextLine();
+			}
+		}
+
+	}
+
+}

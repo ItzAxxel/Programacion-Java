@@ -1,0 +1,19 @@
+import java.util.Random;
+
+public class AxelArroyoGimenez_Array_Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Random aleatorio = new Random();
+		int vector[] = {};
+	
+
+		for (int i = 0; i < vector.length; i++) {
+			vector[i] = aleatorio.nextInt(1001);
+			System.out.println("En la posición : " + i + " hay un " + vector[i]);
+		}
+
+	}
+
+}

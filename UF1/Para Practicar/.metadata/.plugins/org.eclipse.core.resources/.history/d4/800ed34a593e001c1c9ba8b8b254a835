@@ -1,0 +1,14 @@
+public class AxelArroyoGimenez_Array_Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		char array[];
+		array = new char[10];
+
+		for (int x=0;x<array.length;x++)
+		  System.out.println(array[x]);
+
+	}
+
+}

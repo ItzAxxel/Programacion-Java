@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezEjercicioNumerosHastaQueSean0Suma2Ultimos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 * Algorisme que demani números fins a que un sigui 0. En cada iteració (des de
+		 * la segona) ha d’imprimir la suma dels dos últims números
+		 * 
+		 */
+
+		// Creamos el Scanner
+		Scanner teclado = new Scanner(System.in);
+
+		// Creamos la variable
+		int numeroUsuario = 0;
+		int segundoNumero = 0;
+		int suma = 0;
+
+		System.out.println("Introduce un número: ");
+		numeroUsuario = teclado.nextInt();
+		
+		while (numeroUsuario != 0) {
+			suma = segundoNumero + numeroUsuario;
+			System.out.println("La suma es: " + suma);
+			segundoNumero = numeroUsuario;
+			System.out.println("Introduce otro número: ");
+			numeroUsuario = teclado.nextInt();
+		}
+		//Cerramos el teclado
+		teclado.close();
+	}
+}

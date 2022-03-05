@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Arroyo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner teclado = new Scanner (System.in);
+		
+		//Variables
+		String direcion;
+		
+		//Pedimos al usuario la dirección
+		System.out.println("Dime tu dirección: ");
+		direcion = teclado.nextLine();
+		
+		while(!(direcion.charAt(0) == '#')) {
+			System.out.println("¡Debes poner # entre cada separación! Por ejemplo: calle pepito#34#2552");
+			System.out.println("Introduce de nuevo tu direcion con el correcto formato: ");
+			direcion = teclado.nextLine();
+		}
+		
+	}
+
+}

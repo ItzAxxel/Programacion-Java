@@ -1,0 +1,20 @@
+package test;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		boolean alive = true;
+		boolean eat = true;
+		boolean code = true;
+
+		while (alive) {
+			eat();
+			// sleep();
+			code();
+		}
+
+	}
+
+}

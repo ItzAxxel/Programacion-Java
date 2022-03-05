@@ -1,0 +1,84 @@
+import java.util.Random;
+import java.util.Scanner;
+
+public class Memory {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Bucle n x n = tamaño mapa /dificultad juego tiene que ser par Forma aleatoria
+		 * de letras 2 de cada (A, A) Preguntar posicion Validar posiciones Comprobar si
+		 * son iguales Si es igual lo dejamos si no a la puta y se ocultan Comprobar si
+		 * el mapa está completo
+		 * 
+		 * 
+		 */
+
+		Scanner teclado = new Scanner(System.in);
+		int numeroUsuario = 0;
+		Random caracterAscii = new Random();
+		System.out.println("Dame un tamaño y que sea un numero par: ");
+		numeroUsuario = teclado.nextInt();
+		while (numeroUsuario != 4 && numeroUsuario != 6 && numeroUsuario != 8) {
+			System.out.println(
+					"El tamaño que has introducido es incorrecto o no es par. \nRecuerda que únicamente puedes poner los siguientes números: 4, 6 ó 8");
+			System.out.println("Introduce correctamente el tamaño: ");
+			numeroUsuario = teclado.nextInt();
+			System.out.println();
+		}
+
+		char[][] mapaNoJugable = new char[numeroUsuario][numeroUsuario];
+		char[][] mapaJugable = crearMapaVacio(numeroUsuario);
+		rellenarMapa(mapaNoJugable);
+		printarMapa(mapaNoJugable);
+		printarMapa(mapaJugable);
+		
+	}
+
+	public static char[][] crearMapaVacio(int tamanoDelMapa) {
+		char[][] mapa = new char[tamanoDelMapa][tamanoDelMapa];
+
+		for (int i = 0; i < tamanoDelMapa; i++) {
+			for (int j = 0; j < tamanoDelMapa; j++) {
+				mapa[i][j] = '?';
+			}
+		}
+
+		return mapa;
+
+	}
+	
+
+	public static void rellenarMapa(char[][] mapa) {
+		
+		char letraInicial = 'A';
+		
+		// Tabla con letras
+		
+		for (int i = 0; i < mapa.length; i++) {
+			for (int j = 0; j < mapa[i].length; j += 2) {
+				mapa[i][j] = letraInicial;
+				mapa[i][j + 1] = letraInicial;
+				letraInicial += 1;
+			}
+		}
+
+	}
+	
+	public static void printarMapa(char [][] mapa) {
+		for (int i = 0; i < mapa.length; i++) {
+			for (int j = 0; j < mapa.length; j++) {
+				System.out.print(mapa[i][j] + " ");
+			}
+			System.out.println();
+		}
+	}
+	
+	public static int preguntarPosicion() {
+		System.out.println("Escoge una posición: ");
+		
+		return 0;
+		
+	}
+
+}

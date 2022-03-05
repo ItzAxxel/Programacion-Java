@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezNnumerosMasPeque {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 * Algorisme que demani n números (n donat per l’usuari) i calculi el menor
+		 * d’ells.
+		 * 
+		 */
+		
+		// Creamos el Scanner
+		Scanner teclado = new Scanner(System.in);
+
+		// Creamos las variables
+		int numero = 0;
+		int cantidad = 0;
+
+		// Empezamos el ejercicio
+		System.out.println("Cuantos números quieres introducir:  ");
+		cantidad = teclado.nextInt();
+
+		for (int i = 0; i < cantidad; i++) {
+			System.out.println("Introduce el suiguiente número: ");
+			numero = teclado.nextInt();
+		}
+
+		while (cantidad > numero) {
+			System.out.println("El más pequeño es: " + cantidad);
+		}
+
+		// Cerramos el teclado
+		teclado.close();
+	}
+}

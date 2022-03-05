@@ -1,0 +1,26 @@
+import java.util.Random;
+import java.util.Scanner;
+
+public class Arroyo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner teclado = new Scanner(System.in);
+		// Variables
+		Random rand = new Random();
+		int[] pares = new int[25];
+
+		for (int x = 0; x < pares.length; x++) {
+			pares[x] = rand.nextInt(10) + 1;
+			if (pares[x] % 2 == 0) {
+
+			} else {
+				pares[x] = rand.nextInt(10) + 1;
+
+			}
+			System.out.println(pares[x]);
+		}
+
+	}
+}

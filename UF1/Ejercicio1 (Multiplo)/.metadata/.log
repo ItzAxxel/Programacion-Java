@@ -1,0 +1,1927 @@
+!SESSION 2021-09-24 23:12:36.442 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-24 23:12:52.609
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-24 23:12:52.609
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41404aa2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b267745,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-24 23:12:55.224
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-24 23:13:51.890 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-24 23:13:57.342
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-24 23:13:57.342
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@71eff6a3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@574218f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-24 23:14:00.106
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-24 23:35:50.558 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-24 23:35:58.653
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-24 23:35:58.653
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c1bebca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d4818e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-24 23:35:59.826
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-24 23:38:54.029 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-24 23:39:02.745
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-24 23:39:02.745
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47d9c01,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5358c8fa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-24 23:39:04.526
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 00:53:28.476
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 1; i <= x; i++) {
+		x / 2
+	}
+	if() {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-09-25 00:53:28.481
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-09-25 00:53:28.501
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 00:53:28.509
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 1; i <= x; i++) {
+		x / 2
+	}
+	if() {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-09-25 00:53:28.510
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-09-25 00:53:28.512
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:16:05.577
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-09-25 01:16:05.580
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-09-25 01:16:05.581
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:16:05.587
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-09-25 01:16:05.589
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-09-25 01:16:05.591
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:16:35.681
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-09-25 01:16:35.685
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-09-25 01:16:35.714
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:17:59.873
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-09-25 01:17:59.876
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-09-25 01:17:59.895
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:18:01.401
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-09-25 01:18:01.403
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-09-25 01:18:01.404
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:501)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:18:01.536
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-09-25 01:18:01.538
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-09-25 01:18:01.540
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-25 01:18:04.643
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	//TODO Auto-generated method stub
+	
+	// Creamos la variable
+	int x = 0;
+	
+	// Creamos el teclado
+		Scanner teclado = new Scanner(System.in);
+	// El usuario introduce el numero
+	System.out.println("Escribe un numero");
+	// El programa recoge el numero
+	x = teclado.nextInt();
+	
+	// El programa indica si es par o no
+	if (x % 2 == 0) 	{
+		System.out.println("El numero es par");
+		} else { 	
+		System.out.println("El numero es impar");
+		}
+	// El programa indica si es multiplo de 7
+	if (x % 7 == 0) 	{
+		System.out.println("Es Multiple de 7");
+		}
+	
+	// El programa indica si es primo o no
+	for(int i = 2; i < x; i++) {
+		x / 2 
+	}
+	if(!(x / 2 == x)) {
+		System.out.println("Es primo");
+	} else {
+		System.out.println("No es primo");
+	}
+}
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-09-25 01:18:04.645
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-09-25 01:18:04.647
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2033)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3797)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1945)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1976)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3054)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2206)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2993)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3349)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1526)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1279)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2021-09-25 10:39:53.379 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-25 10:41:05.669
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-25 10:41:05.669
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35cbeb54,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a7ae340,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-25 10:41:16.373
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-25 12:40:25.611 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-25 12:40:36.698
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-25 12:40:36.698
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35cbeb54,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a7ae340,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-25 12:40:40.901
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-25 13:21:30.432 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2021-09-25 13:22:00.259
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-09-25 13:22:00.259
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.828
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:683)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:274)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.tabs.RecentTabFactory.createTabArea(RecentTabFactory.java:93)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.832
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:728)
+	at com.genuitec.eclipse.webicons.IconImageDescriptor.createImage(IconImageDescriptor.java:46)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.custom.UIHelper.createIcon(UIHelper.java:342)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.createBrowseOnHover(WorkspaceNameControl.java:279)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.createNameLabel(WorkspaceNameLink.java:105)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.<init>(WorkspaceNameControl.java:183)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.<init>(WorkspaceNameLink.java:80)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createWorkspaceNameControl(WorkspaceControl.java:118)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createControl(WorkspaceControl.java:44)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspacesTabFactory.createTabArea(WorkspacesTabFactory.java:85)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.836
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:728)
+	at com.genuitec.eclipse.webicons.IconImageDescriptor.createImage(IconImageDescriptor.java:46)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.custom.UIHelper.createIcon(UIHelper.java:342)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.createBrowseOnHover(WorkspaceNameControl.java:279)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.createNameLabel(WorkspaceNameLink.java:105)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.<init>(WorkspaceNameControl.java:183)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.<init>(WorkspaceNameLink.java:80)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createWorkspaceNameControl(WorkspaceControl.java:118)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createControl(WorkspaceControl.java:44)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspacesTabFactory.createTabArea(WorkspacesTabFactory.java:85)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.838
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:728)
+	at com.genuitec.eclipse.webicons.IconImageDescriptor.createImage(IconImageDescriptor.java:46)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.custom.UIHelper.createIcon(UIHelper.java:342)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.createBrowseOnHover(WorkspaceNameControl.java:279)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.createNameLabel(WorkspaceNameLink.java:105)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.<init>(WorkspaceNameControl.java:183)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.<init>(WorkspaceNameLink.java:80)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createWorkspaceNameControl(WorkspaceControl.java:118)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceControl.createControl(WorkspaceControl.java:44)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspacesTabFactory.createTabArea(WorkspacesTabFactory.java:85)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.842
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:728)
+	at com.genuitec.eclipse.webicons.IconImageDescriptor.createImage(IconImageDescriptor.java:46)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.custom.UIHelper.createIcon(UIHelper.java:342)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.createBrowseOnHover(WorkspaceNameControl.java:279)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.createNameLabel(WorkspaceNameLink.java:105)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.<init>(WorkspaceNameControl.java:183)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.<init>(WorkspaceNameLink.java:80)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabMainPage.createRecentWorkspacesComposite(LaunchTabMainPage.java:92)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabMainPage.createContents(LaunchTabMainPage.java:55)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabFactory.createPages(LaunchTabFactory.java:40)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabFactory.createTabArea(LaunchTabFactory.java:34)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-09-25 13:22:00.846
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:728)
+	at com.genuitec.eclipse.webicons.IconImageDescriptor.createImage(IconImageDescriptor.java:46)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:287)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:265)
+	at com.genuitec.eclipse.startup.dialogs.custom.UIHelper.createIcon(UIHelper.java:342)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.createBrowseOnHover(WorkspaceNameControl.java:279)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.createNameLabel(WorkspaceNameLink.java:105)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameControl.<init>(WorkspaceNameControl.java:183)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WorkspaceNameLink.<init>(WorkspaceNameLink.java:80)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabMainPage.createRecentWorkspacesComposite(LaunchTabMainPage.java:92)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabMainPage.createContents(LaunchTabMainPage.java:55)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabFactory.createPages(LaunchTabFactory.java:40)
+	at com.genuitec.eclipse.startup.dialogs.tabs.LaunchTabFactory.createTabArea(LaunchTabFactory.java:34)
+	at com.genuitec.eclipse.startup.dialogs.tabs.CodeFullyTabFactory.createContents(CodeFullyTabFactory.java:139)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.createTabContent(SideTabFolder.java:455)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.doCreateTabs(SideTabFolder.java:224)
+	at com.genuitec.eclipse.startup.dialogs.custom.SideTabFolder.recreateTabs(SideTabFolder.java:480)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.createTabs(AbstactSideTabDialog.java:144)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.createTabs(CustomStartupDialog.java:465)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToMainPageFlow(CustomStartupDialog.java:497)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.switchToNextPage(CustomStartupDialog.java:271)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory.switchToNextPage(WelcomeModeTabFactory.java:209)
+	at com.genuitec.eclipse.startup.dialogs.tabs.StylesTabFactory.switchToNextPage(StylesTabFactory.java:280)
+	at com.genuitec.eclipse.startup.dialogs.tabs.WelcomeModeTabFactory$6.widgetSelected(WelcomeModeTabFactory.java:188)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4237)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.genuitec.eclipse.startup.dialogs.custom.AbstactSideTabDialog.open(AbstactSideTabDialog.java:61)
+	at com.genuitec.eclipse.startup.dialogs.custom.CustomStartupDialog.prompt(CustomStartupDialog.java:336)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.showCustomDialog(IDEApplication.java:627)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.promptForWorkspace(IDEApplication.java:383)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.checkInstanceLocation(IDEApplication.java:285)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:142)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-09-25 13:22:00.863
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-09-25 13:22:01.011
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2021-09-25 13:22:02.141
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-25 13:22:02.142
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@614ae4eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cd31214,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-25 13:22:06.662
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-09-25 13:29:38.918 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-09-25 13:29:45.365
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-25 13:29:45.365
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@242c4a94,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4df13b7e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-25 13:29:48.862
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Axel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

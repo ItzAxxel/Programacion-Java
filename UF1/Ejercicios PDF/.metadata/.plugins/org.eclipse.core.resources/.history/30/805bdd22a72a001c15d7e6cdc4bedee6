@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezEjercicioNumeroHasta0 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 *  Algorisme que demani números fins que s’introdueixi un 0. 
+		 *  Aleshores s’ha de imprimir la suma i la mitja de tots els números 
+		 *  introduïts.
+		 * 
+		 */
+		
+		//Creamos el Scanner
+		Scanner teclado = new Scanner(System.in);
+		
+		//Creamos las variables
+		int numero = 0;
+		int comprobante = 0;
+		int suma = 0;
+		int media = 0;
+		
+		//Pedimos al usuario que introduzca un numero
+		System.out.println("Introduce un numero: ");
+		numero = teclado.nextInt();
+		
+		for(comprobante = 0; numero == 0; comprobante++) {
+			System.out.println("Introduce otro numero");
+			numero = teclado.nextInt();
+		}
+		
+		//Imprimmimos por pantalla la suma de todos los numeros y la media
+		
+		
+		System.out.println("La suma de los numeros es: " + suma);
+		System.out.println("La media de los numeros es: " + media);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;AxelArroyoGimenez_Array_Main.main(...).vector&apos; in &apos;AxelArroyoGimenez_Array_Main.main(...)&apos; to field&#x0A;- Original project: &apos;Vectores&apos;&#x0A;- Original element: &apos;AxelArroyoGimenez_Array_Main.main(...).vector&apos;&#x0A;- Field name: &apos;vectors&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;vector&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{AxelArroyoGimenez_Array_Main.java" name="vectors" selection="194 15" stamp="1636134885581" static="true" version="1.0" visibility="2"/>
+</session>

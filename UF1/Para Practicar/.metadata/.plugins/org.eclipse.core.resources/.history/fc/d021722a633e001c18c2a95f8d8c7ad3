@@ -1,0 +1,27 @@
+import java.util.Random;
+
+public class AxelArroyoGimenez_Array_Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Random aleatorio = new Random();
+		int vector[] = new int[1000];
+		int par = 0;
+		int impar = 0;
+
+		for (int i = 0; i < 1000; i++) {
+			vector[i] = aleatorio.nextInt();
+			
+			if(vector[i] % 2 == 0) {
+				par = vector[i];
+			} else {
+				impar = vector[i];
+			}
+			
+			System.out.println("En la posicion:  " + i + " esta el número: " + par + " par");
+		}
+		
+	}
+
+}

@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class AxelArroyoGimenezEjercicioParejaDeNumeros {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 * Algorisme que demani parelles de números fins a que siguin iguals 
+		 * o un d’ells sigui 0. 
+		 * 
+		 */
+		
+		//Creamos el Scanner
+		Scanner teclado = new Scanner(System.in);
+		
+		//Creamos la variable 
+		int numero = 0;
+		
+	}
+
+}

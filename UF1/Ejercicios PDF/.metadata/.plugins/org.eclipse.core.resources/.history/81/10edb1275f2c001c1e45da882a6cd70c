@@ -1,0 +1,23 @@
+
+public class AxelArroyoGimenezTablaDeMultiplicar12345 {
+	public static void main(String[] args) {
+
+		/*
+		 * Algorisme que mostri la taula de multiplicar dels números 1,2,3,4 i 5.
+		 * 
+		 */
+
+		// Creamos las variables
+		int contador2 = 0;
+
+		for (int i = 1; i <= 5; i++) {
+			System.out.println("Tabla del: " + i);
+			for (contador2 = 1; contador2 <= 10; contador2++) {
+				System.out.println(i + " X " + contador2 + " = " + i * contador2);
+			}
+			
+			System.out.println("----------------------------------------------------------------------------------");
+		}
+
+	}
+}

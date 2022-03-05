@@ -1,0 +1,16 @@
+
+public class AxelArroyoGimenezEjercicioVocalConsonante {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		/*
+		 *  Algorisme que demani caràcters i imprimeixi 'VOCAL' si són 
+		 *  vocales i 'CONSONANT' si no. 
+		 *  
+		 */
+		
+		
+	}
+
+}
