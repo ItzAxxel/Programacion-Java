@@ -1,9 +1,0 @@
-INDEX VERSION 1.131+F:\ILERNA\DAW 1\M03.- Programacio\UF1 Programació estructurada\Ejercicios PDF\.metadata\.plugins\org.eclipse.jdt.core
-1599605238.index
-1918183812.index
-1865797976.index
-1086994651.index
-3738605365.index
-3846659995.index
-2849089443.index
-1549355432.index

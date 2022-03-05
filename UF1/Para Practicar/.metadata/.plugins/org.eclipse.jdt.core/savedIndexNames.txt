@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+J:\ILERNA\DAW 1\M03.- Programacio\UF1 Programació estructurada\Para Practicar\.metadata\.plugins\org.eclipse.jdt.core
-3846659995.index
